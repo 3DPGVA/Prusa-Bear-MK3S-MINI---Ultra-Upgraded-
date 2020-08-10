@@ -4,7 +4,8 @@ Introduction
 
 The MK3S Bear for MINI Upgrade replaces the original Prusa MINI frame with a more rigid and reliable solution also it replaces the bowden to direct drive and dual Z-Axis. It allows faster prints, increases precision, makes maintenance easier and opens the door to more customization.
 
-
+For the pictures go here please : 
+https://www.prusaprinters.org/prints/37939-prusa-bear-mk3s-mini-ultra-upgraded
 
 Here are the features that explain why we decided to create another printer upgrade.
 
