@@ -5,6 +5,7 @@ Introduction
 The MK3S Bear for MINI Upgrade replaces the original Prusa MINI frame with a more rigid and reliable solution also it replaces the bowden to direct drive and dual Z-Axis. It allows faster prints, increases precision, makes maintenance easier and opens the door to more customization.
 
 
+
 Here are the features that explain why we decided to create another printer upgrade.
 
     Use as much as possible original parts (the MINI firmware stays intact)
@@ -25,6 +26,7 @@ Thank you for making the community alive with all your comments, issues, pull re
 Sources
 
 Here are a list of sources I used to build this project :
+    </br>
     Grégoire Saunier : https://github.com/gregsaun/prusa_i3_bear_upgrade
     Prusa : http://www.prusa3d.com
     Prusa 3030 Haribo Edition : https://github.com/PrusaMK2Users/3030_Haribo_Edition
