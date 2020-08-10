@@ -20,7 +20,7 @@ Here are the features that explain why we decided to create another printer upgr
     Open source by providing STL, STEP and Autodesk Fusion 360 files
 
  
-The original parts from the designers that you have to use them as they are, are the following:
+The original parts from Prusa and Bear designers that you have to use them as they are, are the following:
    1: x_end_idler_tensioner.stl -> https://github.com/gregsaun/bear_extruder_and_x_axis/blob/master/printed_parts/stl/common_to_all_versions/x_end_idler_tensioner.stl
     
    2: z_motor_mount_front.stl -> https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/z_motor_mount_front.stl
@@ -38,8 +38,8 @@ Sources
 
 Here are a list of sources I used to build this project :
     </br>
-    Grégoire Saunier : https://github.com/gregsaun/prusa_i3_bear_upgrade
     Prusa : http://www.prusa3d.com
+    Grégoire Saunier : https://github.com/gregsaun/prusa_i3_bear_upgrade
     Prusa 3030 Haribo Edition : https://github.com/PrusaMK2Users/3030_Haribo_Edition
     Openbuilds : https://www.openbuilds.org
     Prusa i3 Solidworks parts from jzkmath : https://github.com/jzkmath/Original-Prusa-i3/
